@@ -1,4 +1,5 @@
-# Leader-Election-Simulation
+# Chat-app
+This program allows user to have a peer to peer chat with each other along with option for broadcast. It uses leadership election to choose the leadeer. A new node can be added by pinging the leader.
 
 ## About
 This program emulates a peer to peer chat app to simulate a leader election algorithm<br>
